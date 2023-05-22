@@ -20,7 +20,6 @@ Uma calculadora interativa em JavaScript que registra todos os cálculos feitos 
 
 Esse projeto foi desenvolvido com as seguintes Linguagens:
 
-  <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
   <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
   <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
 
