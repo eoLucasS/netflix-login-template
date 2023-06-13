@@ -12,7 +12,7 @@
 
 ## 📝 Descrição 
 
-Uma calculadora interativa em JavaScript que registra todos os cálculos feitos desde o primeiro, permitindo que você acompanhe seu histórico de forma prática.
+O template de login da Netflix em HTML e CSS apresenta um design moderno e responsivo, permitindo que os usuários acessem facilmente sua conta com apenas alguns cliques.
 
 - Preview: [https://eolucass.github.io/netflix-login-template/](https://eolucass.github.io/netflix-login-template/)
 
